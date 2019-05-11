@@ -1,0 +1,26 @@
+[wavefront]
+{
+  "subscription_id": "1234cff-3a89-1111-8eeb-056dd853e0a4",
+  "subscription": "wf-production",
+  "owner": "wf-team@wavefront.com",
+  "config": "wf-standalone",
+  "environment": "prod",
+  "httpstatusgroup": "2xx",
+  "region": "southus2",
+  "client": "wavefront",
+  "config_version": "v0.2.9",
+  "resourcegroup": "wfdemoprd"
+}
+[yooh-m01.vmware.com]
+{
+  "subscription_id": "1234cff-3a89-1111-8eeb-056dd853e0a4",
+  "subscription": "wf-production",
+  "owner": "wf-team@wavefront.com",
+  "config": "wf-standalone",
+  "environment": "prod",
+  "httpstatusgroup": "2xx",
+  "region": "southus2",
+  "client": "wavefront",
+  "config_version": "v0.2.9",
+  "resourcegroup": "wfdemoprd"
+}

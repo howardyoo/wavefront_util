@@ -1,0 +1,2 @@
+ts("cpu.loadavg.1m")
+
